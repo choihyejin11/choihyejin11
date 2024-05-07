@@ -1,11 +1,9 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hello&fontAlign=30&fontSize=30&desc=it's%20me!&descAlign=60&descAlignY=50&theme=white)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hello&fontAlign=30&fontSize=30&desc=It's%20me&descAlign=60&descAlignY=50&theme=radical)
 ### 안녕하세요 최혜진입니다. 
 
 <!--타이틀 부분-->
 
-![스프라우트](./스프라우트.jpg)
-
-
+![스프라우트](./브롤.webp)
 
 
 <div align=center><h1>📚 STACKS</h1></div>
