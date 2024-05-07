@@ -3,7 +3,7 @@
 
 <!--타이틀 부분-->
 
-![스프라우트](./스프라우트.jpg)
+![브롤](./브롤.jpg)
 
 
 <div align=center><h1>📚 STACKS</h1></div>
