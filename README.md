@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hello&fontAlign=30&fontSize=30&desc=it's%20me!&descAlign=60&descAlignY=50&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hello&fontAlign=30&fontSize=30&desc=it's%20me!&descAlign=60&descAlignY=50&theme=white)
 ### 안녕하세요 최혜진입니다. 
 
 <!--타이틀 부분-->
