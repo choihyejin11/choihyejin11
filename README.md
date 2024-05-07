@@ -3,7 +3,7 @@
 
 <!--타이틀 부분-->
 
-![브롤](./브롤.jpg)
+![bird](./bird.jpg)
 
 
 <div align=center><h1>📚 STACKS</h1></div>
